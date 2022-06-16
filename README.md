@@ -12,7 +12,7 @@ Este proyecto consiste en una simple tarjeta de perfil que muestra, la foto de p
 
 ## Captura de pantalla
 
-![Captura de pantalla](/profile-card-component-main/images/Captura-Tarjeta.png)
+![Captura de pantalla](images/Captura-Tarjeta.png)
 
 
 #### 🌍 URL: https://tarjeta-perfil.netlify.app/
